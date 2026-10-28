@@ -1,1 +1,1 @@
-[sunniwell-test](http://neverssl.com/sunniwell-probe-2026)
+[Open Sunniwell Test](http://192.168.137.1:8765/sunniwell-probe-2026)
