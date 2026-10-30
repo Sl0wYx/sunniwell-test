@@ -1,1 +1,1 @@
-[Open Sunniwell Test](http://neverssl.com/sunniwell-probe-2026)
+[Sunniwell Probe](http://neverssl.com/sunniwell-probe-2026)
