@@ -1,1 +1,1 @@
-[Sunniwell Probe](http://192.168.137.1:8765/health)
+[Sunniwell Probe](http://192.168.137.1:8765/link-test)
